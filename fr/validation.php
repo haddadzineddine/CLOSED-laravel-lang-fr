@@ -44,7 +44,7 @@ return array(
     ),
     "mimes"            => "Le champ :attribute doit être un fichier de type : :values.",
     "min"              => array(
-        "numeric" => "La valeur de :attribute doit être inférieure à :min.",
+        "numeric" => "La valeur de :attribute doit être supérieure à :min.",
         "file"    => "Le fichier :attribute doit être plus que gros que :min kilobytes.",
         "string"  => "Le texte :attribute doit contenir au moins :min caractères.",
     ),
